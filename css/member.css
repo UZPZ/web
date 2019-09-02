@@ -1,0 +1,28 @@
+.member-item{
+  margin: 15px 0px;
+  width: 50%;
+  float: left;
+
+}
+
+.member-icon{
+  width: 40%;
+  display: inline-block;
+}
+.member-icon img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px #ff0000 solid;
+}
+.member-description{
+  width: 40%;
+  display: inline-block;
+}
+.member-description img{
+  width: 30px;
+  height: 30px;
+}
+.member-description a{
+  text-decoration: none;
+}

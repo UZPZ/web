@@ -1,0 +1,14 @@
+.main-container{
+  text-align: center;
+}
+.twitter-container{
+  display: inline-block;
+}
+.fvs-description{
+  
+  display: inline-block;
+  margin-left: 20px;
+}
+.fvs-description h1{
+  text-decoration: underline;
+}

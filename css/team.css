@@ -1,0 +1,15 @@
+.team-item{
+
+  width: 50%;
+  float:left;
+}
+
+.team-item img{
+  outline: 2px solid #ff0000;
+  width: 320px;
+  height: 200px;
+}
+
+.team-item h2{
+  margin: auto;
+}
